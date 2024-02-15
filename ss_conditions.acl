@@ -286,4 +286,6 @@
 (?:^|\.)zerkalo\.io$
 (?:^|\.)zona\.media$
 (?:^|\.)zomro\.com$
+(?:^|\.)copilot.(?:^|\.)$
+(?:^|\.)gemini.google.com$
 
