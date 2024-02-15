@@ -283,7 +283,8 @@ var __BLOCKEDSITES__ = [
   "*.zahav.ru",
   "*.zerkalo.io",
   "*.zona.media",
-  "*.zomro.com"
+  "*.zomro.com",
+  "*.gemini.google.com"
 ];
 
 var proxy;
