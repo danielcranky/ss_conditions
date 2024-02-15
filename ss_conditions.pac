@@ -284,6 +284,7 @@ var __BLOCKEDSITES__ = [
   "*.zerkalo.io",
   "*.zona.media",
   "*.zomro.com",
+  "*.copilot.*",
   "*.gemini.google.com"
 ];
 
