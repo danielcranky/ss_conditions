@@ -285,7 +285,8 @@ var __BLOCKEDSITES__ = [
   "*.zona.media",
   "*.zomro.com",
   "*.copilot.*",
-  "*.gemini.google.com"
+  "*.gemini.google.com",
+  "*.youtube.com"
 ];
 
 var proxy;
